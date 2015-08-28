@@ -17,6 +17,8 @@ public class Cliente {
 	public String  telefone2Cliente;
 	public String  pessoaReferencia;
 	public String  telefonePessoaReferencia;
+	
+	
 	public Integer getIdCliente() {
 		return idCliente;
 	}

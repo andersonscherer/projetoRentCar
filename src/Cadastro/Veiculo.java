@@ -12,6 +12,7 @@ public class Veiculo {
 	public String corExterna;
 	public String placaCarro;
 	public String blindagem;
+	
 	public Integer getAnoFabricacao() {
 		return anoFabricacao;
 	}
